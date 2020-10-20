@@ -1,0 +1,75 @@
+-------------------------------SHIPLOX Formaturas-------------------------------
+
+                              2 Eventos Cadastrados
+
+--------------------------------------------------------------------------------
+ ->Dados do Evento 1:
+   Data: 27/09/2020
+   Tema: Festa
+   Instituição: UNIVALI
+   Id: 1
+   Quantida de Formandos: 3
+
+  ->Alunos:
+    **************************
+
+     Nome: Nicole
+     CPF: 479999999
+     Telefone: 010839248
+     Curso: Eng. Computação
+     Mesa: 1
+
+    **************************
+
+     Nome: Eduardo
+     CPF: 470000000
+     Telefone: 018309435
+     Curso: Eng. Computação
+     Mesa: 2
+
+    **************************
+
+     Nome: Alex
+     CPF: 4788888888
+     Telefone: 436347734634
+     Curso: Eng. Computação
+     Mesa: 3
+
+    **************************
+
+--------------------------------------------------------------------------------
+ ->Dados do Evento 2:
+   Data: 20/10/2030
+   Tema: Festa
+   Instituição: Avantis
+   Id: 4
+   Quantida de Formandos: 3
+
+  ->Alunos:
+    **************************
+
+     Nome: Lucas
+     CPF: 4723479235
+     Telefone: 2356364534
+     Curso: Administração
+     Mesa: 1
+
+    **************************
+
+     Nome: Amanda
+     CPF: 2353475457
+     Telefone: 35253464363
+     Curso: Administração
+     Mesa: 4
+
+    **************************
+
+     Nome: Osvaldo
+     CPF: 233576868
+     Telefone: 3253463
+     Curso: Administração
+     Mesa: 2
+
+    **************************
+
+--------------------------------------------------------------------------------
